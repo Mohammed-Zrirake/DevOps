@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "2bdeb7dcc404df55",
+    "type": "split",
+    "children": [
+      {
+        "id": "32195d4f1f6657a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "656bbacb981bfa9c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Tools/Docker/Docker Guide.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Docker Guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55f9035f30718089",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b6020b764fc26d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c971d6bd246351a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f2d3182c90f5839",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab7c9cd1517b42eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "21f84544fc718d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d8e67fb9a842a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8088020dd9b61e8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts_Phases/1_The PLAN Phase _ Laying the Foundation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1_The PLAN Phase _ Laying the Foundation"
+            }
+          },
+          {
+            "id": "23a60b004f88569e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts_Phases/1_The PLAN Phase _ Laying the Foundation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1_The PLAN Phase _ Laying the Foundation"
+            }
+          },
+          {
+            "id": "a5d2ccc0ae2668bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54497fca33d6f66e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts_Phases/1_The PLAN Phase _ Laying the Foundation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1_The PLAN Phase _ Laying the Foundation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "656bbacb981bfa9c",
+  "lastOpenFiles": [
+    "Tools/Docker/Docker Compose Watch , Automatic Hot Reloading.md",
+    "Tools/Docker/Docker Guide.pdf",
+    "Tools/Docker/3_Running_Containers/Bind Mounts _ Linking Host Files to Containers.md",
+    "Tools/Docker/3_Running_Containers/Docker Volumes _ Persisting Container Data.md",
+    "Tools/Docker/1_Core_Concepts_Related_Docker/5_What s Docker compose.md",
+    "Tools/Docker/1_Core_Concepts_Related_Docker/6_Why Docker Compose _ The Limits of a Single Container.md",
+    "Tools/Docker/1_Core_Concepts_Related_Docker/0_What is Containerization.md",
+    "Tools/Docker/Dockerfile_best_practices.md",
+    "Tools/Docker/1_Core_Concepts_Related_Docker/1_What s Docker.md",
+    "Tools/Docker/3_Running_Containers/Overriding container defaults.md",
+    "Tools/Docker/3_Running_Containers/Publishing and exposing ports.md",
+    "Tools/Docker/2_Building_images/Multi-Stage Docker Builds.md",
+    "Tools/Docker/3_Running_Containers",
+    "Tools/Docker/2_Building_images/Optimizing Builds with the Docker Cache.md",
+    "Tools/Docker/2_Building_images/Understanding the image layers.md",
+    "Tools/Docker/2_Building_images/Writing a Dockerfile _ Automate Image Creation.md",
+    "Tools/Docker/2_Building_images/Building , Tagging , and Publishing Docker Images.md",
+    "Tools/Docker/2_Building_images/Building Images with 'docker commit'.md",
+    "Tools/Docker/2_Building_images",
+    "Tools/Docker/1_Core_Concepts_Related_Docker/4_Waht s Registry.md",
+    "Tools/Docker/1_Core_Concepts_Related_Docker/3_What s Image.md",
+    "Tools/Docker/1_Core_Concepts_Related_Docker/2_What s Container.md",
+    "Tools/Docker/4_Extra",
+    "Tools/Docker/4_Extra/Debugging A Live Docker Container.md",
+    "Tools/Docker/4_Extra/Robust Startup with Docker Compose Health Checks.md",
+    "Tools/Docker/4_Extra/Docerkizing the Services , Creating The First Dockerfile.md",
+    "Tools/Docker/Concepts_Related_Docker.md",
+    "Tools/Docker/1_Core_Concepts_Related_Docker",
+    "Concepts_Phases/8_The MONITOR Phase _ The Eyes and Ears of Production.md",
+    "Concepts_Phases/7_The OPERATE Phase _ Keeping the Lights On.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Tools/Docker",
+    "Concepts/Untitled"
+  ]
+}
