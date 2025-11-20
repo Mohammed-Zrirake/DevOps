@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32195d4f1f6657a7",
+        "id": "6b873d5efc77d87a",
         "type": "tabs",
         "children": [
           {
-            "id": "656bbacb981bfa9c",
+            "id": "4dec3fc482e1f19b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Caching , Sharing Data and Debugging Workflows.md",
-                "mode": "source",
+                "file": "DevOps_Software/GitHub_Actions_CI-CD/Custom_GitHub_Actions/Publishing a Custom GitHub Action.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caching , Sharing Data and Debugging Workflows"
+              "title": "Publishing a Custom GitHub Action"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 243.5
   },
   "right": {
     "id": "21f84544fc718d5d",
@@ -169,44 +169,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "656bbacb981bfa9c",
+  "active": "c971d6bd246351a8",
   "lastOpenFiles": [
-    "Tools/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Customizing Workflows with Variables, Contexts, and Scripts.md",
-    "Tools/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Caching , Sharing Data and Debugging Workflows.md",
-    "Tools/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Managing and Debugging GitHub Actions Workflows.md",
-    "Tools/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Using GitHub Actions for Continuous Integration (CI).md",
-    "Tools/GitHub_Actions_CI-CD/WorkFlow_Anatomy.png",
-    "Tools/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows",
-    "Tools/GitHub_Actions_CI-CD/GitHub Actions _ Automating Development Workflows.md",
-    "Tools/GitHub_Actions_CI-CD/The Components of a GitHub Actions Workflow.md",
-    "Tools/GitHub_Actions_CI-CD/Advanced GitHub Actions Workflow Configuration.md",
-    "Tools/Docker_containerization/Docker Guide.pdf",
-    "Tools/GitHub_Actions_CI-CD",
-    "Tools/Docker_containerization/Docker Compose Watch , Automatic Hot Reloading.md",
-    "Tools/Docker_containerization/3_Running_Containers/Bind Mounts _ Linking Host Files to Containers.md",
-    "Tools/Docker_containerization/3_Running_Containers/Docker Volumes _ Persisting Container Data.md",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker/5_What s Docker compose.md",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker/6_Why Docker Compose _ The Limits of a Single Container.md",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker/0_What is Containerization.md",
-    "Tools/Docker_containerization/Dockerfile_best_practices.md",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker/1_What s Docker.md",
-    "Tools/Docker_containerization/3_Running_Containers/Overriding container defaults.md",
-    "Tools/Docker_containerization/3_Running_Containers/Publishing and exposing ports.md",
-    "Tools/Docker_containerization/2_Building_images/Multi-Stage Docker Builds.md",
-    "Tools/Docker_containerization/3_Running_Containers",
-    "Tools/Docker_containerization/2_Building_images/Optimizing Builds with the Docker Cache.md",
-    "Tools/Docker_containerization/2_Building_images/Understanding the image layers.md",
-    "Tools/Docker_containerization/2_Building_images/Writing a Dockerfile _ Automate Image Creation.md",
-    "Tools/Docker_containerization/2_Building_images/Building , Tagging , and Publishing Docker Images.md",
-    "Tools/Docker_containerization/2_Building_images/Building Images with 'docker commit'.md",
-    "Tools/Docker_containerization/2_Building_images",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker/4_Waht s Registry.md",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker/3_What s Image.md",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker/2_What s Container.md",
-    "Tools/Docker_containerization/4_Extra",
-    "Tools/Docker_containerization/1_Core_Concepts_Related_Docker",
+    "DevOps_Software/GitHub_Actions_CI-CD/YAML & GitHub Actions CICD Cheatsheet.pdf",
+    "DevOps_Software/Git",
+    "DevOps_Software/GitHub_Actions_CI-CD/Custom_GitHub_Actions/Custom_GitHub_Actions.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Custom_GitHub_Actions/Publishing a Custom GitHub Action.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Custom_GitHub_Actions",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Packages/Using GitHub Packages for Code Packages.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Advanced GitHub Actions Workflow Configuration.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/The Components of a GitHub Actions Workflow.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/WorkFlow_Anatomy.png",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Actions _ Automating Development Workflows.md",
+    "The CI_CD Pipeline_ Integration_ Delivery_ and Deployment.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Script/Practical Automation with GitHub Script.md",
+    "DevOps_Software/Docker_containerization/Docker Guide.pdf",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Script/CI_CD.png",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Packages/Publishing to GitHub Packages and Container Registry.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Packages/What is GitHub Packages.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Packages",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Script/GitHub Script_Interacting with the GitHub API in Workflows.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Script",
+    "DevOps_Software/Docker_containerization/1_Core_Concepts_Related_Docker/1_What s Docker.md",
+    "DevOps_Software/Docker_containerization/1_Core_Concepts_Related_Docker/0_What is Containerization.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Actions _ CD/Managing Artifacts, Badges, and Environment Protections.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Actions _ CD/Using GitHub Actions to Deploy to Azure (CD).md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Caching , Sharing Data and Debugging Workflows.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/GitHub Actions _ CD",
+    "DevOps_Software/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Customizing Workflows with Variables, Contexts, and Scripts.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Managing and Debugging GitHub Actions Workflows.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Using GitHub Actions for Continuous Integration (CI).md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows/Untitled.md",
+    "Untitled 1.base",
     "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "What is DevOps.md",
+    "Linux/Untitled.md",
+    "Linux",
+    "Concepts_Phases/7_The OPERATE Phase _ Keeping the Lights On.md",
+    "Concepts_Phases/3_The BUILD Phase _ From Code to Artifact.md",
+    "Concepts_Phases/6_The DEPLOY Phase _ Going Live.md",
+    "DevOps_Software/GitHub_Actions_CI-CD/Building_Continuous_Integration_Workflows"
   ]
 }
