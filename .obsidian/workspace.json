@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1149cc8147428116",
+        "id": "9de9f3418d0a264f",
         "type": "tabs",
         "children": [
           {
-            "id": "de3c6ee68ffcf3c1",
+            "id": "298da8480f4db410",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps_Software/3_Jenkins_CI_CD/Jenkins Dynamic Docker Agents _ Ephemeral Builds on Demand.md",
+                "file": "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Using AKS Default (System-Provisioned) StorageClasses.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jenkins Dynamic Docker Agents _ Ephemeral Builds on Demand"
+              "title": "Using AKS Default (System-Provisioned) StorageClasses"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 306.5
   },
   "right": {
     "id": "21f84544fc718d5d",
@@ -169,44 +169,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de3c6ee68ffcf3c1",
+  "active": "298da8480f4db410",
   "lastOpenFiles": [
-    "DevOps_Software/3_Jenkins_CI_CD/Jenkins Distributed Builds (Master-Slave Architecture).md",
-    "DevOps_Software/3_Jenkins_CI_CD/Jenkins Dynamic Docker Agents _ Ephemeral Builds on Demand.md",
-    "DevOps_Software/3_Jenkins_CI_CD/The Jenkins Master-Slave Architecture.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Jenkins_The Automation Engine for CI_CD.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Building_Reusable_Piplines/Using Docker as a Dynamic Build Agent in a Jenkins Pipeline.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Distributed Builds in Jenkins",
-    "DevOps_Software/3_Jenkins_CI_CD/Untitled",
-    "The CI_CD Pipeline_ Integration_ Delivery_ and Deployment.md",
-    "What is DevOps.md",
-    "DevOps_Software/4_Docker_containerization/Docker Guide.pdf",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Persistent Storage in AKS with Azure Disks.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Using AKS Default (System-Provisioned) StorageClasses.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The MySQL ClusterIP Service.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The MySQL Stateful Deployment.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests The ConfigMap.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The PersistentVolumeClaim (PVC).md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The StorageClass.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Deploying a Sample Application to an AKS Cluster.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Building a Frontend-Backend Application with YAML Manifests.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/YAML Basics for Kubernetes.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure Kubernetes Service (AKS) An Introduction and Hands-On Guide.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/Writing Kubernetes Manifests _ The Deployment.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet/Writing Kubernetes Manifests The ReplicaSet.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services/Writing Kubernetes Manifests_ The LoadBalancer Service.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods/Writing Kubernetes Manifests Pods with YAML.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services/A Deep Dive into Kubernetes Services.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services/Kubernetes Services The LoadBalancer Type in Azure (AKS).md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/Pausing and Resuming Kubernetes Deployments.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/Updating and Rolling Back Kubernetes Deployments.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/The Kubernetes Deployment.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet/The Kubernetes ReplicaSet.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Kubernetes Architecture and Core Concepts.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods/Interacting with and Debugging Kubernetes Pods.md",
     "DevOps_Software/4_Docker_containerization/Docker Compose Watch , Automatic Hot Reloading.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods",
+    "DevOps_Software/4_Docker_containerization/Docker Guide.pdf",
     "DevOps_Software/4_Docker_containerization/Dockerfile_best_practices.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Building_Reusable_Piplines/Refactoring a Jenkins Pipeline_ From Inline Scripts to Reusable Functions.md",
-    "Concepts_Phases/1_The PLAN Phase _ Laying the Foundation.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Building_Reusable_Piplines",
-    "Concepts_Phases/8_The MONITOR Phase _ The Eyes and Ears of Production.md",
-    "Concepts_Phases/7_The OPERATE Phase _ Keeping the Lights On.md",
-    "Concepts_Phases/3_The BUILD Phase _ From Code to Artifact.md",
-    "Concepts_Phases/6_The DEPLOY Phase _ Going Live.md",
-    "Concepts_Phases/5_The RELEASE Phase _ Preparing for Deployment.md",
-    "Concepts_Phases/4_The TEST Phase _ The Automated Quality Gate.md",
-    "Concepts_Phases/2_The CODE Phase _ From Plan to Program.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Jenkins Pipelines and Files/Modeling a Workflow with Jenkins Declarative Pipeline.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Jenkins Pipelines and Files/The Jenkins Declarative Pipeline (Pipeline as Code).md",
-    "DevOps_Software/3_Jenkins_CI_CD/Custom_Plugins/Creating a Custom Jenkins Plugin.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Jenkins Pipelines and Files",
-    "DevOps_Software/3_Jenkins_CI_CD/Custom_Plugins/The Role of Plugins in Jenkins.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Types_Jobs/The Self_Contained Jenkins Build_ Full Automation with Pipeline as Code.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Custom_Plugins",
-    "DevOps_Software/3_Jenkins_CI_CD/Types_Jobs/Hands On A Standard Jenkins Build with Manual Plugins.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Types_Jobs/Anatomy of a Jenkins Freestyle Job Configuration.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Types_Jobs/The Jenkins Job Freestyle vs Pipeline.md",
-    "DevOps_Software/3_Jenkins_CI_CD/Types_Jobs",
-    "DevOps_Software/3_Jenkins_CI_CD",
-    "DevOps_Software/6_Terraform_IAC",
-    "DevOps_Software/5_Kubernetes_Orchestration",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods/The Kubernetes Pod.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes",
+    "Build_Tools/Maven",
+    "Build_Tools_Runtime",
     "DevOps_Software/2_GitHub_Actions_CI-CD/WorkFlow_Anatomy.png",
     "DevOps_Software/2_GitHub_Actions_CI-CD/GitHub Script/CI_CD.png"
   ]
