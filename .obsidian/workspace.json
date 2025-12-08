@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Using AKS Default (System-Provisioned) StorageClasses.md",
+                "file": "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The Horizontal Pod Autoscaler (HPA).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using AKS Default (System-Provisioned) StorageClasses"
+              "title": "Hands-On_ The Horizontal Pod Autoscaler (HPA)"
             }
           }
         ]
@@ -171,6 +171,21 @@
   },
   "active": "298da8480f4db410",
   "lastOpenFiles": [
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Horizontal Pod Autoscaler 2.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The Horizontal Pod Autoscaler (HPA).md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/The Horizontal Pod Autoscaler (HPA).md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The AKS Cluster Autoscaler.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Why Create a Cluster with the CLI.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Autoscaling in Kubernetes and Azure AKS.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On_ Mixed Mode Deployments with AKS Virtual Nodes.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/AKS Virtual Nodes_ Serverless Bursting for Kubernetes.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On Mixed-Mode Deployments with AKS Virtual Nodes 2.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On_ Mixed-Mode Deployments with AKS Virtual Nodes.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On_ Deploying to Azure Virtual Nodes.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands_On Creating an AKS Cluster with Virtual Nodes.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/AKS Virtual Nodes_ Serverless Kubernetes.md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Azure AKS Virtual Nodes_ Serverless Kubernetes.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Persistent Storage in AKS with Azure Disks.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Using AKS Default (System-Provisioned) StorageClasses.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The MySQL ClusterIP Service.md",
@@ -185,28 +200,13 @@
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/YAML Basics for Kubernetes.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure Kubernetes Service (AKS) An Introduction and Hands-On Guide.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/Writing Kubernetes Manifests _ The Deployment.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet/Writing Kubernetes Manifests The ReplicaSet.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services/Writing Kubernetes Manifests_ The LoadBalancer Service.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods/Writing Kubernetes Manifests Pods with YAML.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services/A Deep Dive into Kubernetes Services.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services/Kubernetes Services The LoadBalancer Type in Azure (AKS).md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/Pausing and Resuming Kubernetes Deployments.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/Updating and Rolling Back Kubernetes Deployments.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/The Kubernetes Deployment.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet/The Kubernetes ReplicaSet.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Kubernetes Architecture and Core Concepts.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods/Interacting with and Debugging Kubernetes Pods.md",
-    "DevOps_Software/4_Docker_containerization/Docker Compose Watch , Automatic Hot Reloading.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods",
     "DevOps_Software/4_Docker_containerization/Docker Guide.pdf",
-    "DevOps_Software/4_Docker_containerization/Dockerfile_best_practices.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods/The Kubernetes Pod.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes",
     "Build_Tools/Maven",
-    "Build_Tools_Runtime",
     "DevOps_Software/2_GitHub_Actions_CI-CD/WorkFlow_Anatomy.png",
     "DevOps_Software/2_GitHub_Actions_CI-CD/GitHub Script/CI_CD.png"
   ]
