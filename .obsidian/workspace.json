@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9de9f3418d0a264f",
+        "id": "78647b748d18cc7d",
         "type": "tabs",
         "children": [
           {
-            "id": "298da8480f4db410",
+            "id": "630fecd910d94452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The Horizontal Pod Autoscaler (HPA).md",
-                "mode": "preview",
+                "file": "DevOps_Software/1_Git/1_Basics/The Git Repository_ Your Project's Universe.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hands-On_ The Horizontal Pod Autoscaler (HPA)"
+              "title": "The Git Repository_ Your Project's Universe"
             }
           }
         ]
@@ -169,10 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "298da8480f4db410",
+  "active": "630fecd910d94452",
   "lastOpenFiles": [
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Horizontal Pod Autoscaler 2.md",
+    "DevOps_Software/1_Git/0_Introduction To Git/Git vs. GitHub_ The Critical Distinction.md",
+    "DevOps_Software/1_Git/1_Basics/The Git Repository_ Your Project's Universe.md",
+    "DevOps_Software/1_Git/1_Basics",
+    "DevOps_Software/1_Git/0_Introduction To Git/Who Uses Git_ It's Not Just for Coders.md",
+    "DevOps_Software/1_Git/0_Introduction To Git/The History of Git.md",
+    "DevOps_Software/1_Git/0_Introduction To Git/What Git Actually Does.md",
+    "DevOps_Software/1_Git/0_Introduction To Git/What is Git.md",
+    "DevOps_Software/1_Git/Introduction To Git/f.md",
+    "DevOps_Software/1_Git/Untitled.md",
+    "DevOps_Software/1_Git/0_Introduction To Git",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The Horizontal Pod Autoscaler (HPA).md",
+    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Horizontal Pod Autoscaler 2.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/The Horizontal Pod Autoscaler (HPA).md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The AKS Cluster Autoscaler.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Why Create a Cluster with the CLI.md",
@@ -190,23 +200,13 @@
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Using AKS Default (System-Provisioned) StorageClasses.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The MySQL ClusterIP Service.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The MySQL Stateful Deployment.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests The ConfigMap.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The PersistentVolumeClaim (PVC).md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The StorageClass.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Deploying a Sample Application to an AKS Cluster.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Building a Frontend-Backend Application with YAML Manifests.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/YAML Basics for Kubernetes.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure Kubernetes Service (AKS) An Introduction and Hands-On Guide.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment/Writing Kubernetes Manifests _ The Deployment.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods",
     "DevOps_Software/4_Docker_containerization/Docker Guide.pdf",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes",
-    "Build_Tools/Maven",
     "DevOps_Software/2_GitHub_Actions_CI-CD/WorkFlow_Anatomy.png",
     "DevOps_Software/2_GitHub_Actions_CI-CD/GitHub Script/CI_CD.png"
   ]
