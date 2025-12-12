@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78647b748d18cc7d",
+        "id": "79361162d8dc4cb4",
         "type": "tabs",
         "children": [
           {
-            "id": "630fecd910d94452",
+            "id": "47f0c859145212e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps_Software/1_Git/1_Basics/The Git Repository_ Your Project's Universe.md",
-                "mode": "source",
+                "file": "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/`git reset`_ Rewriting Your Local History.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Git Repository_ Your Project's Universe"
+              "title": "`git reset`_ Rewriting Your Local History"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 244.5
   },
   "right": {
     "id": "21f84544fc718d5d",
@@ -169,44 +169,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "630fecd910d94452",
+  "active": "47f0c859145212e4",
   "lastOpenFiles": [
-    "DevOps_Software/1_Git/0_Introduction To Git/Git vs. GitHub_ The Critical Distinction.md",
-    "DevOps_Software/1_Git/1_Basics/The Git Repository_ Your Project's Universe.md",
-    "DevOps_Software/1_Git/1_Basics",
-    "DevOps_Software/1_Git/0_Introduction To Git/Who Uses Git_ It's Not Just for Coders.md",
-    "DevOps_Software/1_Git/0_Introduction To Git/The History of Git.md",
-    "DevOps_Software/1_Git/0_Introduction To Git/What Git Actually Does.md",
-    "DevOps_Software/1_Git/0_Introduction To Git/What is Git.md",
-    "DevOps_Software/1_Git/Introduction To Git/f.md",
-    "DevOps_Software/1_Git/Untitled.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/`git restore`_ Unstaging Changes.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/Relative Commits_ Referencing the Past with `HEAD~`.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/`git checkout commit` & The Detached HEAD State.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/`git revert`_ The Safe_ Non-Destructive _Undo.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/Working in a Detached HEAD State.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/`git reset`_ Rewriting Your Local History.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/`git restore`_ The Modern Way to Undo Changes.md",
+    "DevOps_Software/1_Git/3_Merging/Hands-On_ Resolving a Merge Conflict.md",
+    "DevOps_Software/1_Git/3_Merging/Resolving Merge Conflicts.md",
+    "DevOps_Software/1_Git/3_Merging/Merging Diverged Histories_ The 3-Way Merge.md",
+    "DevOps_Software/1_Git/3_Merging/Hands-On_ Performing a Fast-Forward Merge.md",
+    "DevOps_Software/1_Git/3_Merging/Merging Branches _ Combining Your Work.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling/Discarding Changes with `git checkout -- file`.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/`git commit --amend`_ Fixing the Last Commit.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/A Better `git log` The `--oneline` Flag.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/Practicing the Add & Commit Cycle.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/`git commit`_ Saving Your Snapshots.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/`git add` _ Staging Your Changes.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/Best Practice_ Avoid Nested Git Repositories.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/The Git Commit_ Your Project's Save Point.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/The `.git` Directory_ The Heart of the Repository.md",
+    "DevOps_Software/1_Git/1_Basics_Commits/`git init` & `git status`_ Creating Your First Repository.md",
+    "DevOps_Software/1_Git/2_Branching/Managing Branches_ Deleting & Renaming.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "DevOps_Software/1_Git/2_Branching/Branching Shortcuts & Uncommitted Changes.md",
+    "DevOps_Software/1_Git/2_Branching/Creating & Switching Branches_ A Hands-On Guide.md",
+    "DevOps_Software/1_Git/2_Branching/`HEAD`_ The _You Are Here_ Pointer in Git.md",
+    "DevOps_Software/1_Git/4_ Undoing Changes & Time Traveling",
+    "DevOps_Software/1_Git/3_Merging",
+    "DevOps_Software/1_Git/2_Branching",
+    "DevOps_Software/1_Git/1_Basics_Commits",
     "DevOps_Software/1_Git/0_Introduction To Git",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The Horizontal Pod Autoscaler (HPA).md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Horizontal Pod Autoscaler 2.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/The Horizontal Pod Autoscaler (HPA).md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Hands-On_ The AKS Cluster Autoscaler.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Why Create a Cluster with the CLI.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure/Autoscaling in Kubernetes and Azure AKS.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On_ Mixed Mode Deployments with AKS Virtual Nodes.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Autoscaling in Kubernetes and Azure",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/AKS Virtual Nodes_ Serverless Bursting for Kubernetes.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On Mixed-Mode Deployments with AKS Virtual Nodes 2.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On_ Mixed-Mode Deployments with AKS Virtual Nodes.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands-On_ Deploying to Azure Virtual Nodes.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Hands_On Creating an AKS Cluster with Virtual Nodes.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/AKS Virtual Nodes_ Serverless Kubernetes.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/5_Azure AKS Virtual Nodes/Azure AKS Virtual Nodes_ Serverless Kubernetes.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Persistent Storage in AKS with Azure Disks.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Using AKS Default (System-Provisioned) StorageClasses.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The MySQL ClusterIP Service.md",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs/Writing Kubernetes Manifests_ The MySQL Stateful Deployment.md",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure/Azure_Discs",
     "DevOps_Software/5_Kubernetes_Orchestration_Azure/Azure",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Deployment",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/ReplicaSet",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Services",
-    "DevOps_Software/5_Kubernetes_Orchestration_Azure/Kubernetes/Pods",
-    "DevOps_Software/4_Docker_containerization/Docker Guide.pdf",
     "DevOps_Software/2_GitHub_Actions_CI-CD/WorkFlow_Anatomy.png",
     "DevOps_Software/2_GitHub_Actions_CI-CD/GitHub Script/CI_CD.png"
   ]
