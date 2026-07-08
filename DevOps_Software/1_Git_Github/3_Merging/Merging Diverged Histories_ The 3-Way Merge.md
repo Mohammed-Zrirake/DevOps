@@ -35,7 +35,7 @@ graph TD
         B --> D_Bugfix("New commit on bugfix");
     end
 
-    subgraph "After `git merge bugfix`"
+    subgraph "After git merge bugfix`"
         F("...") --> G("Shared Ancestor");
         G --> H_Master("New commit on master");
         G --> I_Bugfix("New commit on bugfix");

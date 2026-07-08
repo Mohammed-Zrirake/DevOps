@@ -108,7 +108,7 @@ graph TD
     B -- No Conflict --> C[Automatic Merge Commit];
     B -- Conflict! --> D["<b>Git Stops:</b><br/>'CONFLICT' Error"];
     D --> E["<b>You Edit:</b><br/>Open file, remove markers,<br/>choose correct code, save"];
-    E --> F("<b>You Stage:</b><br/>`git add <resolved-file>`");
-    F --> G("<b>You Commit:</b><br/>`git commit`");
+    E --> F("<b>You Stage:</b><br/>git add <resolved-file>");
+    F --> G("<b>You Commit:</b><br/>git commit");
     G --> H[Final Merge Commit Created];
 ```
