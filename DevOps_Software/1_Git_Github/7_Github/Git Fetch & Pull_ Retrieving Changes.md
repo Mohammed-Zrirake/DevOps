@@ -201,6 +201,50 @@ git pull origin puppies
 
 ---
 
+## 🔄 Rebase on Pull (`git pull --rebase`)
+
+Instead of creating a merge commit when your local history and the remote history have diverged, you can use the `--rebase` flag. This will fetch the remote changes and then **rebase** your local commits on top of them, creating a cleaner, linear history.
+
+### Syntax
+```bash
+git pull --rebase <remote> <branch-to-pull-from>
+```
+
+### Example
+```bash
+git pull --rebase origin addtests
+```
+
+### How It Works
+
+```mermaid
+graph TD
+    %% Nodes
+    subgraph Before git pull --rebase
+      A1((A)) --> B1((B))
+      B1 --> C1(("Local"))
+      B1 --> D1(("Remote"))
+    end
+
+    subgraph After git pull --rebase origin addtests
+      A2((A)) --> B2((B))
+      B2 --> D2(("Remote"))
+      D2 --> C2(("Local"))
+    end
+    
+    style C1 fill:#FF4500,color:white
+    style D1 fill:#1E90FF,color:white
+    style C2 fill:#FF4500,color:white
+    style D2 fill:#1E90FF,color:white
+```
+
+1. **Fetch**: Git fetches the latest `addtests` branch from `origin`.
+2. **Rewind**: Git temporarily sets aside your local commits.
+3. **Fast-Forward**: Git moves your branch pointer to match the remote commits.
+4. **Replay**: Git applies your local commits one by one on top of the new remote commits.
+
+---
+
 ## 📝 Summary Table
 
 | Feature | `git fetch` | `git pull` |
